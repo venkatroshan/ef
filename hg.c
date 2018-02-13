@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+ int main()
 {
 	int min,max,i;
 	printf("ENTER THE RANGE:\n");
